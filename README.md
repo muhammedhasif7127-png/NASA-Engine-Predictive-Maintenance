@@ -36,4 +36,4 @@ This project develops a predictive maintenance system to estimate the **Remainin
 - Saxena et al., "Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation."
 
 ---
-**Developed by Luthfan** (Connect on [LinkedIn](www.linkedin.com/in/mohammed-hasif-530805265))
+**Developed by Mohammed Hasif** (Connect on [LinkedIn](www.linkedin.com/in/mohammed-hasif-530805265))
